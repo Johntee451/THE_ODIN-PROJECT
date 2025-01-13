@@ -1,0 +1,276 @@
+body{
+    margin: 0px;
+}
+
+
+.first-Section-Div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #1f2937;
+    font-family: monospace;
+    padding: 1px;
+}
+
+.first-Section-Div .logo-Link-Div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 100px;
+}
+
+.first-Section-Div .logo-Link-Div .logo-Div h2{
+    flex: 1;
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+.first-Section-Div .logo-Link-Div .link-Div{
+    flex: 1;
+    gap: 10px;
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.first-Section-Div .logo-Link-Div .link-Div .single-Link-Div{
+    text-decoration: none;
+    flex: 1;
+    gap: 100px;
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+
+
+.first-Section-Div .desc-Image-Div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.first-Section-Div .desc-Image-Div .desc-Heading-Div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.first-Section-Div .desc-Image-Div .desc-Heading-Div h1{
+    flex: 1;
+    font-size: 48px;
+    font-weight: 900;
+    color: #f9faf8;
+}
+
+.first-Section-Div .desc-Image-Div .desc-Heading-Div p{
+    flex: 1;
+    color: #e5e7eb;
+}
+
+.first-Section-Div .desc-Image-Div .desc-Heading-Div button{
+    flex: 1;
+    color: #e5e7eb;
+    background: #3882f6;
+    padding: 5px;
+    border: 0px;
+}
+
+.first-Section-Div .desc-Image-Div .image-Placeholder-Div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 100px;
+    background: #e5e7eb;
+}
+
+.first-Section-Div .desc-Image-Div .image-Placeholder-Div p{
+    flex: 1;
+    color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+.secondSection-Div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #1f2937;
+    padding: 10px;
+    font-family: monospace;
+}
+
+.secondSection-Div .heading-Desc-Div{
+    flex: 1;
+    color: #1f2937;
+    font-size: 36px;
+    font-weight: 900;
+}
+
+.secondSection-Div .heading-Desc-Div .image-Desc-Div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.secondSection-Div .heading-Desc-Div .image-Desc-Div .single-Image-Desc-Div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+
+.secondSection-Div .heading-Desc-Div .image-Desc-Div .single-Image-Desc-Div .image-Div{
+    flex: 1;
+    width: 50px;
+    height: 50px;
+    border: 2px solid #3882f6;
+    border-radius: 5px;
+}
+
+.secondSection-Div .heading-Desc-Div .image-Desc-Div .single-Image-Desc-Div p{
+    flex: 1;
+    color: #e5e7eb;
+    justify-items: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.thirdSection-Div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #e5e7eb;
+    padding: 10px;
+}
+
+.thirdSection-Div .quote-Div{
+    flex: 1;
+    font-size: 36px;
+    font-style: light italic;
+    color: #1f2937;
+}
+
+.thirdSection-Div .quote-Author-Div{
+    flex: 1;
+    align-content: flex-end;
+    color: #1f2937;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.fourthSection-Div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+.fourthSection-Div .call-To-Action-Div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    color: #f9faf8;
+}
+
+.fourthSection-Div .call-To-Action-Div .heading-Parag-Div{
+    flex: 1;
+}
+
+.fourthSection-Div .call-To-Action-Div .button-Div button{
+    flex: 1;
+    border: 1px solid #e5e7eb;
+    border-radius: 5px;
+    color: #f9faf8;
+    padding: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.fifthSection-Div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+.fifthSection-Div .copyright-Parag-Div{
+    flex: 1;
+    color: #e5e7eb;
+    padding: 10px;
+    text-decoration: none;
+}
+
+*/
